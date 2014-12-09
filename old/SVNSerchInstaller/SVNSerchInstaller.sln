@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SVNSerchInstaller", "SVNSerchInstaller\SVNSerchInstaller.vdproj", "{8E9D96F1-ED6E-4C87-861D-75EE396ECD24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9D96F1-ED6E-4C87-861D-75EE396ECD24}.Debug|Default.ActiveCfg = Debug
+		{8E9D96F1-ED6E-4C87-861D-75EE396ECD24}.Debug|Default.Build.0 = Debug
+		{8E9D96F1-ED6E-4C87-861D-75EE396ECD24}.Release|Default.ActiveCfg = Release
+		{8E9D96F1-ED6E-4C87-861D-75EE396ECD24}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

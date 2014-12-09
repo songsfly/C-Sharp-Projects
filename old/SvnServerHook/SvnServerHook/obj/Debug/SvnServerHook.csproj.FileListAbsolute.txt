@@ -1,0 +1,5 @@
+E:\工作后\donet工具\SvnServerHook\SvnServerHook\obj\Debug\ResolveAssemblyReference.cache
+E:\工作后\donet工具\SvnServerHook\SvnServerHook\bin\Debug\SvnServerHook.exe
+E:\工作后\donet工具\SvnServerHook\SvnServerHook\bin\Debug\SvnServerHook.pdb
+E:\工作后\donet工具\SvnServerHook\SvnServerHook\obj\Debug\SvnServerHook.exe
+E:\工作后\donet工具\SvnServerHook\SvnServerHook\obj\Debug\SvnServerHook.pdb

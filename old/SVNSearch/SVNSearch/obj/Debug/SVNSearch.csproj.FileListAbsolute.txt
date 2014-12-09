@@ -1,0 +1,9 @@
+E:\工作后\donet工具\SVNSearch\SVNSearch\bin\Debug\SVNSearch.exe
+E:\工作后\donet工具\SVNSearch\SVNSearch\bin\Debug\SVNSearch.pdb
+E:\工作后\donet工具\SVNSearch\SVNSearch\obj\Debug\ResolveAssemblyReference.cache
+E:\工作后\donet工具\SVNSearch\SVNSearch\obj\Debug\SVNSearch.Properties.Resources.resources
+E:\工作后\donet工具\SVNSearch\SVNSearch\obj\Debug\SVNSearch.csproj.GenerateResource.Cache
+E:\工作后\donet工具\SVNSearch\SVNSearch\obj\Debug\SVNSearch.exe
+E:\工作后\donet工具\SVNSearch\SVNSearch\obj\Debug\SVNSearch.pdb
+E:\工作后\donet工具\SVNSearch\SVNSearch\obj\Debug\SVNSearch.MainForm.resources
+E:\工作后\donet工具\SVNSearch\SVNSearch\obj\Debug\SVNSearch.ManageDbForm.resources
