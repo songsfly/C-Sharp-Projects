@@ -1,8 +1,0 @@
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\bin\Debug\CheckBeforCommit.exe
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\bin\Debug\CheckBeforCommit.pdb
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\obj\Debug\ResolveAssemblyReference.cache
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\obj\Debug\CheckBeforCommit.Form1.resources
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\obj\Debug\CheckBeforCommit.Properties.Resources.resources
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\obj\Debug\CheckBeforCommit.csproj.GenerateResource.Cache
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\obj\Debug\CheckBeforCommit.exe
-E:\工作后\donet工具\CheckBeforCommit\CheckBeforCommit\obj\Debug\CheckBeforCommit.pdb
